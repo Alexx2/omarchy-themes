@@ -12,14 +12,7 @@ A collection of themes for Omarchy, including Monokai and Dracula.
 
 A dark theme inspired by the character Ayaka.
 
-### Screenshots
 
-(Please add screenshots of the Ayaka theme here, e.g., in Neovim, Alacritty, etc.)
-You can place your screenshot images in the `ayaka/screenshots/` directory within the theme folder and link them here.
-
-For example:
-![Ayaka Neovim Screenshot](ayaka/screenshots/neovim.png)
-![Ayaka Alacritty Screenshot](ayaka/screenshots/alacritty.png)
 
 
 ## Installation
