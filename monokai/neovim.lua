@@ -1,5 +1,5 @@
 return {
-	{ "sainnhe/everforest" },
+	{ "tanvirtin/monokai.nvim" }, -- Added Monokai colorscheme plugin
 	{
 		"LazyVim/LazyVim",
 		opts = {

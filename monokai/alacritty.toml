@@ -1,24 +1,24 @@
 [colors]
 [colors.primary]
-background = "#272822"
-foreground = "#f8f8f2"
+background = "#2e2e2e"
+foreground = "#d6d6d6"
 
 [colors.normal]
-black = "#272822"
+black = "#2e2e2e"
 red = "#f92672"
-green = "#a6e22e"
-yellow = "#f4bf75"
-blue = "#66d9ef"
-magenta = "#ae81ff"
-cyan = "#a1efe4"
-white = "#f8f8f2"
+green = "#b4d273"
+yellow = "#e5b567"
+blue = "#6c99bb"
+magenta = "#9e86c8"
+cyan = "#a1efe4" # Keeping this as it's not explicitly in the LazyVim list, but close to original Monokai cyan
+white = "#d6d6d6"
 
 [colors.bright]
-black = "#75715e"
+black = "#797979"
 red = "#f92672"
-green = "#a6e22e"
-yellow = "#f4bf75"
-blue = "#66d9ef"
-magenta = "#ae81ff"
-cyan = "#a1efe4"
-white = "#f8f8f2"
+green = "#b4d273"
+yellow = "#e5b567"
+blue = "#6c99bb"
+magenta = "#9e86c8"
+cyan = "#a1efe4" # Keeping this as it's not explicitly in the LazyVim list, but close to original Monokai cyan
+white = "#d6d6d6"
