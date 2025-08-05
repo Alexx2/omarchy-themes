@@ -4,16 +4,7 @@ A dark theme for Omarchy, inspired by the classic Monokai color scheme.
 
 ## Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/omarchy-themes.git
-    ```
-2.  **Copy the theme:**
-    ```bash
-    cp -r omarchy-themes/monokai ~/.config/omarchy/themes/
-    ```
-3.  **Apply the theme in Omarchy:**
-    Open Omarchy and select "Monokai" from the theme settings.
+You can install this theme by copying the GitHub URL of the Monokai theme and running `omarchy-theme-install [url]` or select `Themes > Install` via the Omarchy TUI.
 
 ## Screenshots
 

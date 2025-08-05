@@ -9,14 +9,7 @@ A collection of themes for Omarchy, including Monokai and Dracula.
 
 ## Installation
 
-To install these themes, you can clone this repository and copy the desired theme to your Omarchy themes directory:
-
-```bash
-git clone https://github.com/your-username/omarchy-themes.git
-cp -r omarchy-themes/<theme-name> ~/.config/omarchy/themes/
-```
-
-Then, open Omarchy and select the theme from the settings.
+You can install any of these themes by copying the GitHub URL and running `omarchy-theme-install [url]` or select `Themes > Install` via the Omarchy TUI.
 
 ## Contributing
 
