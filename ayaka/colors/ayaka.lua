@@ -1,0 +1,1 @@
+require("ayaka").set_highlight_groups()
